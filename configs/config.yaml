@@ -1,1 +1,8 @@
+camera:
+  rtsp_url: 0
+  width: 640
+  height: 480
 
+model:
+  confidence_threshold: 0.5
+  classes: [0]  # Class 0 is 'person' in COCO dataset
